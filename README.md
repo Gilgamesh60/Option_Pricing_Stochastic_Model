@@ -25,7 +25,7 @@ Brownian motion is describing that at a given time interval, the current price o
 To derive the Black Scholes equation, Fisher Black and Myron Scholes presented geometric Brownian motion as a model that contained the Wiener process Z with the addition of a drift module and volatility module. Where geometric Brownian motion explains that the change in an asset price at a predetermined time is equal to the percentage drift expected annually times the current price, plus the daily volatility expected annually in the asset price times the Wiener process.
 
 I used this paper to understand and implement this model :
-![https://www.columbia.edu/~ks20/FE-Notes/4700-07-Notes-BM.pdf](https://www.columbia.edu/~ks20/FE-Notes/4700-07-Notes-BM.pdf)
+[https://www.columbia.edu/~ks20/FE-Notes/4700-07-Notes-BM.pdf](https://www.columbia.edu/~ks20/FE-Notes/4700-07-Notes-BM.pdf)
 
 
 
